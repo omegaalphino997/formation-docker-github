@@ -6,3 +6,7 @@ def addition(a, b):
     return a + b
 
 print("Résultat :", addition(10, 20))
+def addition(a, b):
+    return a + b
+
+print("Résultat :", addition(10, 25))
